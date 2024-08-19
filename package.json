@@ -7,7 +7,9 @@
   "dependencies": {
     "@google-cloud/bigtable": "5.1.2",
     "@hono/node-server": "1.12.1",
+    "@types/uuid": "10.0.0",
     "hono": "4.5.6",
-    "ts-node": "10.9.2"
+    "ts-node": "10.9.2",
+    "uuid": "10.0.0"
   }
 }
