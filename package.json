@@ -5,6 +5,7 @@
   "main": "src/index.ts",
   "scripts": {},
   "dependencies": {
+    "@google-cloud/bigtable": "5.1.2",
     "@hono/node-server": "1.12.1",
     "hono": "4.5.6"
   }
